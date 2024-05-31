@@ -33,7 +33,6 @@ This App is built with React.js and vanilla CSS.
 The App is deployed on Vercel. Have a glance and try it: [Expense Share App by Junior Jusmé](https://expense-share.vercel.app/)
 
 # Contact
-Click the links below to:
 Email me at [junior.jusme@gmail.com](mailto:junior.jusme@gmail.com) 
 Connect with me on [LinkedIn: Junior Jusmé](https://www.linkedin.com/in/junior-jusm%C3%A9-2b783012a/)
 
