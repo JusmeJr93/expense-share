@@ -34,5 +34,5 @@ The App is deployed on Vercel. Have a glance and try it: [Expense Share App by J
 
 # Contact
 Email me at [junior.jusme@gmail.com](mailto:junior.jusme@gmail.com) 
-Connect with me on [LinkedIn: Junior Jusmé](https://www.linkedin.com/in/junior-jusm%C3%A9-2b783012a/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/junior-jusm%C3%A9-2b783012a/)
 
