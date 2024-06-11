@@ -116,7 +116,8 @@ function ExpenseShare() {
         <FormSplitBill
           selectedFriend={selectedFriend}
           friends={friends}
-          handleSplitBill={handleSplitBill} />}
+          handleSplitBill={handleSplitBill}
+          key={selectedFriend.id} />}
     </div>
   );
 }
