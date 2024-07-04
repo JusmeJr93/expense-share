@@ -1,5 +1,4 @@
 # About the Expense Share App
-<<<<<<< HEAD
 
 Expense Share App is an user-friendly web application designed to help friends and family easily split expenses and manage financial transactions between them.
 Whether it's splitting a restaurant bill, sharing accommodation expenses or managing regular shared expenses, this app ensures that everyone is on the same page without the effort of manual calculations.
@@ -79,4 +78,4 @@ The App is deployed on Vercel. Have a glance and try it: [Expense Share App by J
 Email me at [junior.jusme@gmail.com](mailto:junior.jusme@gmail.com) 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/junior-jusm%C3%A9-2b783012a/)
 
->>>>>>> 9e9e637157a2d534cd894ae957c693a4ae215c16
+
